@@ -20,6 +20,7 @@ namespace WebApplication1
             //Add data change
             //second demo
             int a;
+            //Added variables which are not working properly
             int b;
             int c;
             int d;
